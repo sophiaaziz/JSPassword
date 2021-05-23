@@ -1,6 +1,5 @@
 User Story
 
-
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security 
@@ -25,5 +24,9 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 
+<img width="1440" alt="Screen Shot 2021-05-23 at 1 21 22 PM" src="https://user-images.githubusercontent.com/83053936/119275483-41672a00-bbca-11eb-8954-f15f96a2b3dd.png">
+<img width="1440" alt="Screen Shot 2021-05-23 at 1 21 25 PM" src="https://user-images.githubusercontent.com/83053936/119275484-43c98400-bbca-11eb-84e8-63d7d48af794.png">
 
 
+Click [here](https://sophiaaziz.github.io/JSPassword/) to go to my website. 
+Click [here](https://github.com/sophiaaziz/JSPassword) to go to my repository.
